@@ -4,6 +4,11 @@
 **Autor:** Jonathan Ruiz Ordoñez  
 **Licencia:** MIT (ver archivo LICENSE)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Ruiz%20Ordoñez-blue)](https://www.linkedin.com/in/jonathanruizordo%C3%B1ez/)
+
 ### Descripción
 
 Este repositorio contiene la replicación en Python de un análisis econométrico sobre informalidad laboral femenina, utilizando datos de la Encuesta Nacional de Ocupación y Empleo (ENOE) del INEGI para el tercer trimestre de 2024 y 2025.  
