@@ -75,10 +75,10 @@ Este análisis fue posible gracias a la colaboración académica y la oportunida
 
 Agradezco especialmente a:
 
-- Dra. Claudia Alejandra Hernández Herrera por la invitación y coordinación.  
-- Dra. Eva Aide Torres Ortega  
-- Dra. Orieta Iveth Flores Ahumada  
-- Dra. Cristina Cabrera Ramos  
+- **Dra. Claudia Alejandra Hernández Herrera**, por la invitación y coordinación general de la conferencia.  
+- **Dra. Eva Aide Torres Ortega**, por invitarme personalmente a participar en el proyecto y por su constante orientación académica.  
+- **Dra. Orieta Iveth Flores Ahumada**  
+- **Dra. Cristina Cabrera Ramos**
 
 por su apoyo, orientación y participación conjunta en el proyecto "Las sombras vigentes del género en la informalidad laboral" (22 de enero de 2026, UPIICSA-IPN).  
 
